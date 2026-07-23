@@ -1,0 +1,1 @@
+print(list(map(lambda x:x+1,[10,20,30,40])))
