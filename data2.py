@@ -22,14 +22,13 @@ cars=[
 ]
 
 
-#collect all white color cars
-#collect all cars price below 20,00000
-#collect all Maruthi cars
-#update all car price by adding 10000/-
+new_cars=[]
+for car in cars:
+    if car['brand'] == 'Maruti Suzuki':
+        new_cars.append(car)
+        print (new_cars)
 
-
-new_cars=list(filter(lambda car:car['color']=='White',cars))
-print(len(cars))
-print(len(new_cars))
+def get_cars(car):
+    return car['brand'] == 'Maruti Suzuki'
+new_cars = list(filter(get_cars,car))
 print(new_cars)
-
