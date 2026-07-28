@@ -1,0 +1,9 @@
+user={
+    'id':1,
+    'name':'Rahul',
+    'email':'rahulgmail.com'
+}
+print(user)
+print(user['id'])
+print(user['name'])
+print(user['email'])
