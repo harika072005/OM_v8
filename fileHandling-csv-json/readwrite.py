@@ -1,0 +1,6 @@
+fp1=open('data.txt','r')
+fp2=open('abc.txt','w')
+data=fp1.read()
+print(data)
+fp2.write(data)
+print("New File created succesfully")
