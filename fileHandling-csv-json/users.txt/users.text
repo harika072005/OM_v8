@@ -1,0 +1,24 @@
+name,eid,gender,salary
+Olivia Bennett,EID001,F,56000
+Liam Carter,EID002,M,62000
+Emma Davis,EID003,F,59000
+Noah Edwards,EID004,M,61000
+Ava Foster,EID005,F,58000
+William Garcia,EID006,M,65000
+Sophia Harris,EID007,F,60000
+James Ingram,EID008,M,63000
+Isabella Johnson,EID009,F,57000
+Benjamin King,EID010,M,64000
+Mia Lewis,EID011,F,55500
+Lucas Martin,EID012,M,61500
+Charlotte Nelson,EID013,F,59500
+Henry Owens,EID014,M,60500
+Amelia Perez,EID015,F,58500
+Alexander Quinn,EID016,M,66000
+Evelyn Roberts,EID017,F,57200
+Daniel Smith,EID018,M,62500
+Harper Thompson,EID019,F,59800
+Michael Underwood,EID020,M,63500
+
+readwrite.py()
+
